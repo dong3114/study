@@ -1,3 +1,5 @@
+package practice.stack;
+
 import java.util.Stack;
 
 public class BrowserStack {
